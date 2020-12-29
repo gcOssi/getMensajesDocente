@@ -1,0 +1,9 @@
+/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/src/main/java/cl/duoc/getmensajes/util/UtilEnDecoder.java
+/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/src/main/java/cl/duoc/getmensajes/util/Utility.java
+/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/src/main/java/cl/duoc/getmensajes/dto/ResponseDto.java
+/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/src/main/java/cl/duoc/getmensajes/util/UtilProperties.java
+/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/src/main/java/cl/duoc/getmensajes/dto/MensajesResultSet.java
+/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/src/main/java/cl/duoc/getmensajes/processor/GetMensajeProcessor.java
+/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/src/main/java/cl/duoc/getmensajes/rest/GetMensajesRouteBuilder.java
+/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/src/main/java/cl/duoc/getmensajes/dto/Mensaje.java
+/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/src/main/java/cl/duoc/getmensajes/errors/EmptyResponseException.java

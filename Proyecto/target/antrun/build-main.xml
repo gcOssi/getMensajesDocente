@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <replaceregexp match="http://petstore.swagger.io/v2/swagger.json" replace="http://10.10.150.34:8080/GetMensajesDocente/api/swagger" byline="true">
+    <fileset dir="/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/target/swagger-ui-2.2.10/dist">
+      <include name="*.html"></include>
+      <include name="*.js"></include>
+    </fileset>
+    <fileset dir="/Users/gonzalocabrerabou/workspace/getMensajesDocente/Proyecto/target/swagger-ui-2.2.10/dist/lang">
+      <include name="*.js"></include>
+    </fileset>
+  </replaceregexp>
+</target>
+</project>
